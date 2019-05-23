@@ -17,6 +17,7 @@ by Eric Goetschalckx
 14. Snow Crash
 15. Crying of Lot 49
 16. War of the Worlds
+17. In the Beginning... Was the Command Line
 
 ## Submissions
 PRs are welcome. Approval not guaranteed.
