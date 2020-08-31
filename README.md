@@ -17,6 +17,8 @@ by Eric Goetschalckx
 14. Snow Crash
 15. Crying of Lot 49
 16. War of the Worlds
+17. The Diamond Age
+18. The Moon is a Harsh Mistress
 
 ## Submissions
 PRs are welcome. Approval not guaranteed.
